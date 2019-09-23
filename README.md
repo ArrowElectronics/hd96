@@ -1,4 +1,4 @@
-# hd96
+# hd96 - Hello Wayne
 HelmsDeep96 - Trusted Platfrom
 
 -	Out-of-the-box secure and trustworthy; Secured by EmSPARK Security Suite by Sequitur Labs Inc.
