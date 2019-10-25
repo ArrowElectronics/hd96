@@ -1,3 +1,11 @@
 # hd96
-HelmsDeep96 - Trusted Platfrom folder
+Getting Started Guides
+====================================================
 
+Introduction
+------------------------
+
+Release notes
+-----------
+10/25/2019
+  - Initial release
