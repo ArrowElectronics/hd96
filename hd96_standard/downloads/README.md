@@ -9,13 +9,16 @@ Release notes
   - Initial release
   - ATECC608A Microchip CryptoAuthTools Python
 
+11/14/2019
+  - minor fixes and changes
+
 
 Using CryptoAuthLib with HD96 (Microchip CryptoAuth Library)
 ====================================================
 Link: https://github.com/MicrochipTech/cryptoauthtools/tree/master/python/examples
 
     -copy folder to HD96
-    -check if I2C is attached by: i2cdetec -y 1
+    -check if I2C is attached by: i2cdetect -y 1
         Output
         ------
         root@sama5d27-hd96:/media/python/examples#  i2cdetect -y 1
@@ -91,8 +94,8 @@ Using PKCS#11 Tools + OpenSSL with HD96 ATECC608A
                 Label: root
                 ID:
 
-    -Generating Device CSR (Certificate Signing Request) using PKCS Tools with ATECC608A
-    -execute: openssl req -engine pkcs11 -key "pkcs11:token=012301;object=device;type=private" -keyform engine -new -out            hd96_device.csr -subj "/CN=HD96 Device CSR EXAMPLE" 
+    -Generating Device CSR (Certificate Signing Request) using PKCS Tools with ATECC608A. Please add your token ID from the section above.
+    -execute: openssl req -engine pkcs11 -key "pkcs11:token=012301;object=device;type=private" -keyform engine -new -out hd96_device.csr -subj "/CN=HD96 Device CSR EXAMPLE" 
         
         Then execute cat hd96_device.csr
 
