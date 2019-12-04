@@ -24,3 +24,5 @@ Introduction
 -> hd96_standard/downloads: software examples
 
 -> hd96_standard/getting_started: guides
+
+![HelmsDeep96](https://github.com/ArrowElectronics/hd96/blob/master/hardware_docs/pics/IMG_8810.jpg)
