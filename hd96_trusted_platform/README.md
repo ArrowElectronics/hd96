@@ -3,7 +3,7 @@ HelmsDeep96 - Trusted Platfrom
 
 Introduction
 ------------------------
-Welcome to the EmSPARKTM Security Suite Software Evaluation Kit download page. You are a step closer to securing your product!
+Welcome to the EmSPARK (TM) Security Suite Software Evaluation Kit download page. You are a step closer to securing your product!
 
 The Software Evaluation Kit includes all deliverables necessary for a customer to build a fully functional Linux-based system on the Arrow HelmsDeep96 board or SAMA5D2 Xplained Ultra rev.C board. It allows you to:
 
