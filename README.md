@@ -11,6 +11,7 @@ HelmsDeep96 is compliant to 96Boards IoT Edition, the only SoC independent open 
 
 Introduction
 ------------------------
+- EmSPARK Secuirty Suite for HelmsDeep96 Board [One Pager with donwload link](https://github.com/ArrowElectronics/hd96/blob/master/hd96_trusted_platform/EmSPARKSecuritySuite_ForHelmsDeep96_OnePagerFlyer_FINAL_12122019.pdf) 
 - EmSPARK Security EvalKit onboarding with AWS IoT CORE [Wiki Section](https://github.com/ArrowElectronics/hd96/wiki)
 - AWS Greengrass and AWS IoT Core onboarding in the [Wiki Section](https://github.com/ArrowElectronics/hd96/wiki)
 -	Out-of-the-box secure and trustworthy; Secured by EmSPARK Security Suite by Sequitur Labs Inc.
