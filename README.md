@@ -30,4 +30,4 @@ Introduction
 
 -> hd96_standard/getting_started: guides
 
-![HelmsDeep96](https://github.com/ArrowElectronics/hd96/blob/master/hardware_docs/pics/IMG_8810.jpg)
+![HelmsDeep96](https://github.com/ArrowElectronics/hd96/blob/master/hardware_docs/pics/hd96_img.jpg)
