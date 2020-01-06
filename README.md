@@ -15,8 +15,8 @@ The “HelmsDeep96” Board based on Microchip silicon, comes available, through
 Details
 ------------------------
 - EmSPARK Security Suite for HelmsDeep96 Board [documentation and download](https://github.com/ArrowElectronics/hd96/blob/master/hd96_trusted_platform/EmSPARKSecuritySuite_ForHelmsDeep96_OnePagerFlyer_FINAL_12122019.pdf) 
-- [Getting Started with AWS IoT Core and HelmsDeep96 using EmSPARK Security Suite Evaluation Kit](https://github.com/ArrowElectronics/hd96/wiki)
-- [Getting started with AWS IoT Greengrass on HelmsDeep96](https://github.com/ArrowElectronics/hd96/wiki)
+- [Getting Started with AWS IoT Core and HelmsDeep96 using EmSPARK Security Suite Evaluation Kit](https://github.com/ArrowElectronics/hd96/wiki/AWS-IoT-Core-Getting-Started)
+- [Getting started with AWS IoT Greengrass on HelmsDeep96](https://github.com/ArrowElectronics/hd96/wiki/AWS-Greengrass-HSI-Getting-Started)
 
 
 -> hardware_docs: schematics, HD96 3D view
