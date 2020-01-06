@@ -12,7 +12,7 @@ The “HelmsDeep96” Board based on Microchip silicon, comes available, through
 
 
 
-Introduction
+Details
 ------------------------
 - EmSPARK Security Suite for HelmsDeep96 Board [One Pager with download link](https://github.com/ArrowElectronics/hd96/blob/master/hd96_trusted_platform/EmSPARKSecuritySuite_ForHelmsDeep96_OnePagerFlyer_FINAL_12122019.pdf) 
 - EmSPARK Security EvalKit onboarding with AWS IoT CORE [Wiki Section](https://github.com/ArrowElectronics/hd96/wiki)
