@@ -13,11 +13,11 @@ Release notes
   - minor fixes and changes
 
 
-Using CryptoAuthLib with HD96 (Microchip CryptoAuth Library)
+Using CryptoAuthLib with Shield96 (Microchip CryptoAuth Library)
 ====================================================
 Link: https://github.com/MicrochipTech/cryptoauthtools/tree/master/python/examples
 
-    -copy folder to HD96
+    -copy folder to Shield96
     -check if I2C is attached by: i2cdetect -y 1
         Output
         ------
