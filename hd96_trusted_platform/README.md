@@ -1,4 +1,4 @@
-HelmsDeep96 - Trusted Platfrom
+Shield96 - Trusted Platfrom
 ====================================================
 
 Introduction
