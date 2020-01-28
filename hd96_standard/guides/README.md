@@ -1,2 +1,2 @@
-HelmsDeep96 - Trusted Platfrom folder
+Shield96 - Trusted Platfrom folder
 
