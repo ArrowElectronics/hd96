@@ -5,7 +5,7 @@ Story
 ------------------------
 Shield96 is a fast prototyping and evaluation platform for the SAMA5D2 based System in Packages (SiPs). The kit comprises a baseboard with a soldered ATSAMA5D27 SiP. The board features an ATSAMA5D27C-D1G-CU SIP embedding a 1-Gbit (128 MB) DDR2 DRAM.  The board integrates a Power Management IC (PMIC), a QSPI memory, a 10/100 Mbps Ethernet PHY and a serial EEPROM with a MAC address. 40 GPIO pins are provided by the board for general use in the system. The board features a wide range of peripherals, as well as a user interface and expansion options, including one mezzanine card interface to support 96Board mezzanine extension cards. Linux distribution and software package allows you to easily get started with your development.
 
-Shield96 is compliant to 96Boards IoT Edition, the only SoC independent open platform specifications. It supports secure firmware updates, secure storage, secure element, tamper detection, key and certificate management, crypto engine and an OpenSSL adaptor. The HelmsDeep96 offers a single place for both hardware and software for product security development needs. 
+Shield96 is compliant to 96Boards IoT Edition, the only SoC independent open platform specifications. It supports secure firmware updates, secure storage, secure element, tamper detection, key and certificate management, crypto engine and an OpenSSL adaptor. The Shield96 offers a single place for both hardware and software for product security development needs. 
 
 The “Shield96” Board based on Microchip silicon, comes available, through Arrow’s Provisioning Services, (optionally) preloaded with the EmSPARK Security Suite by Sequitur Labs. The security suite provides a secure platform applicable across all IoT verticals to enable secure devices and protect firmware, keys and data throughout the lifecycle of a product. EmSPARK is the essential software companion suite complementing the Microchip hardware providing a cost-effective solution appropriate for every connected device built with the ATSAMA5D2 processor. Engineers can leverage this solution for the rapid prototyping of digital transformation built on trust extracting the full value of the advanced embedded security features of the ATSAMA5D2 MPU. Out of the box the firmware implements a secure boot chain from ROM to the Linux kernel, diversified devices and a secure enclave using TrustZone/TEE abstracted through an easy to use SDK. 
 
@@ -15,8 +15,8 @@ The “Shield96” Board based on Microchip silicon, comes available, through Ar
 Details
 ------------------------
 - EmSPARK Security Suite for HelmsDeep96 Board [documentation and download](https://github.com/ArrowElectronics/hd96/blob/master/hd96_trusted_platform/EmSPARKSecuritySuite_ForHelmsDeep96_OnePagerFlyer_FINAL_12122019.pdf) 
-- [Getting Started with AWS IoT Core and HelmsDeep96 using EmSPARK Security Suite Evaluation Kit](https://github.com/ArrowElectronics/hd96/wiki/AWS-IoT-Core-Getting-Started)
-- [Getting started with AWS IoT Greengrass on HelmsDeep96](https://github.com/ArrowElectronics/hd96/wiki/AWS-Greengrass-HSI-Getting-Started)
+- [Getting Started with AWS IoT Core and Shield96 using EmSPARK Security Suite Evaluation Kit](https://github.com/ArrowElectronics/hd96/wiki/AWS-IoT-Core-Getting-Started)
+- [Getting started with AWS IoT Greengrass on Shield96](https://github.com/ArrowElectronics/hd96/wiki/AWS-Greengrass-HSI-Getting-Started)
 
 
 -> hardware_docs: schematics, Shield96 3D view
