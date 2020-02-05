@@ -1,3 +1,3 @@
 # Shield96
-Shield96 - Trusted Platfrom folder
+Shield96 - Standard 
 
