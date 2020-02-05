@@ -1,4 +1,4 @@
-**Shield96 - [Click here to purchase](https://www.arrow.com/en/research-and-events/articles/the-shield96-development-boards)
+**Shield96** - [Click here to purchase](https://www.arrow.com/en/research-and-events/articles/the-shield96-development-boards)
 ====================================================
 
 **Story**
