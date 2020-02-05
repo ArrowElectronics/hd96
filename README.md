@@ -22,4 +22,4 @@ The Shield96 Trusted Platform Board based on Microchip silicon is available prel
 
 -> hd96_standard/getting_started: guides
 
-![Shield96](https://github.com/ArrowElectronics/hd96/blob/master/hardware_docs/pics/hd96_img.jpg)
+![Shield96](hardware_docs/pics/Untitled-2.jpg)
