@@ -16,4 +16,4 @@ The Shield96 Trusted Platform Board based on Microchip silicon is available prel
 - hd96_standard/build: Linux image, Microchip SAM-BA
 - hd96_standard/downloads: software examples
 - hd96_standard/getting_started: guides
-![Shield96](hardware_docs/pics/Untitled-2.jpg)
+![Shield96](hardware_docs/pics/Untitled-2.jpg)<img src="hardware_docs/pics/Untitled-2.jpg" height="24" width="48">
