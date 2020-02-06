@@ -95,7 +95,7 @@ Using PKCS#11 Tools + OpenSSL with Shield96 ATECC608A
                 ID:
 
     -Generating Device CSR (Certificate Signing Request) using PKCS Tools with ATECC608A. Please add your token ID from the section above.
-    -execute: openssl req -engine pkcs11 -key "pkcs11:token=012301;object=device;type=private" -keyform engine -new -out hd96_device.csr -subj "/CN=HD96 Device CSR EXAMPLE" 
+    -execute: openssl req -engine pkcs11 -key "pkcs11:token=012301;object=device;type=private" -keyform engine -new -out shield96_device.csr -subj "/CN=Shield96 Device CSR EXAMPLE" 
         
         Then execute cat hd96_device.csr
 
@@ -115,12 +115,12 @@ Using PKCS#11 Tools + OpenSSL with Shield96 ATECC608A
 
         Output
         ------
-        root@sama5d27-hd96:/media/python/examples# openssl req -in hd96_device.csr -verify -text -noout
+        root@sama5d27-hd96:/media/python/examples# openssl req -in shield96_device.csr -verify -text -noout
         verify OK
         Certificate Request:
             Data:
                 Version: 1 (0x0)
-                Subject: CN = HD96 Device CSR Example
+                Subject: CN = Shield96 Device CSR Example
                 Subject Public Key Info:
                     Public Key Algorithm: id-ecPublicKey
                         Public-Key: (256 bit)
