@@ -66,7 +66,7 @@ Link: https://github.com/MicrochipTech/cryptoauthtools/tree/master/python/exampl
 
         Done
     
-Using PKCS#11 Tools + OpenSSL with HD96 ATECC608A 
+Using PKCS#11 Tools + OpenSSL with Shield96 ATECC608A 
 ====================================================
 
     -checking PKCS#11 Tools are available with ATECC608A
