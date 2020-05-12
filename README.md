@@ -9,7 +9,7 @@ The Shield96 Trusted Platform Board based on Microchip silicon is available prel
 
 **Details**
 ------------------------
-- Shield96 SKU2 Trusted Platform Getting Started with EmSPARK Security [documentation and download](https://github.com/ArrowElectronics/hd96/blob/master/hd96_trusted_platform/EmSPARKSecuritySuite_ForHelmsDeep96_OnePagerFlyer_FINAL_12122019.pdf)
+- Shield96 SKU2 Trusted Platform Getting Started with EmSPARK Security [documentation and download](https://github.com/ArrowElectronics/hd96/blob/master/hd96_trusted_platform/getting_started/GETTING_STARTED-SKU2_V.01.pdf)
 - EmSPARK Security Suite for Shield96 Board [documentation and download](https://github.com/ArrowElectronics/hd96/blob/master/hd96_trusted_platform/EmSPARKSecuritySuite_ForHelmsDeep96_OnePagerFlyer_FINAL_12122019.pdf) 
 - [Getting Started with AWS IoT Core and Shield96 using EmSPARK Security Suite Evaluation Kit](https://github.com/ArrowElectronics/hd96/wiki/Onboarding-to-Aws-IoT-Core-with-Shield96)
 - [Getting started with AWS IoT Greengrass on Shield96](https://github.com/ArrowElectronics/hd96/wiki/Using-AWS-IoT-Greengrass-with-Shield96)
