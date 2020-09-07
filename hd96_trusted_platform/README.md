@@ -13,3 +13,4 @@ The Software Evaluation Kit includes all deliverables necessary for a customer t
     Test TLS/MQTT connectivity and authentication to Amazon AWS IoT using the provided device certificate
 
 [Download link](https://www.sequiturlabs.com/emspark-for-arrow-helmsdeep96/)
+[](https://github.com/ArrowElectronics/hd96/releases/download/20200721_shield96_emspark_/arrow_corelockr_package_2020-07-21_1.tar.gz) latest EmSPARK Security Suite v2 Toolchain and Examples
