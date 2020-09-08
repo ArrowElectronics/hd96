@@ -16,7 +16,7 @@ The Shield96 Trusted Platform Board based on Microchip silicon is available prel
 - [Getting started with AWS IoT Greengrass on Shield96](https://github.com/ArrowElectronics/hd96/wiki/Using-AWS-IoT-Greengrass-with-Shield96)
 - hardware_docs: schematics, Shield96 3D view
 - hd96_standard/build: Linux image, Microchip SAM-BA
-  - Latest Shield96 Standard Image -> [DOWNLOAD HERE](https://www.arrow.com/-/media/16ac745adb794a398a9d927ab7988bd8.ashx?h=16&thn=1&w=16)
+  - Latest Shield96 Standard Image for (HD96_STANDARD) -> [DOWNLOAD HERE](https://www.arrow.com/-/media/16ac745adb794a398a9d927ab7988bd8.ashx?h=16&thn=1&w=16)
 - hd96_standard/downloads: software examples
 - hd96_standard/getting_started: guides
 ![Shield96](hardware_docs/pics/Untitled-2.jpg)<img src="hardware_docs/pics/Untitled-2.jpg" height="48" width="48">
